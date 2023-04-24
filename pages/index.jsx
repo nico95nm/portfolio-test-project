@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Link from 'next/link';
-
 import Navbar from '../components/Navbar';
 
 function Home() {
@@ -19,7 +18,7 @@ function Home() {
               Hey, my name is Nikola Miletic
             </h1>
             <p className="description">
-             In my free time I play video games, watch movies etc.
+              In my free time I play video games, watch movies etc.
             </p>
 
             <Link href="/contact" className="cta">

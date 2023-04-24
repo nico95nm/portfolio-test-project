@@ -1,5 +1,4 @@
 import Head from 'next/head';
-
 import Navbar from '../components/Navbar';
 
 function Portfolio() {
@@ -17,8 +16,7 @@ function Portfolio() {
             <h1 data-cy="pageTitle" className="title">
               Portfolio
             </h1>
-            <p className="description">
-This is Portfolio from Nikola Miletc            </p>
+            <p className="description">This is Portfolio from Nikola Miletc </p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
